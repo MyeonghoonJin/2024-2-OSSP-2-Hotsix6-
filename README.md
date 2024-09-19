@@ -70,4 +70,4 @@
 
 <h2>Reference</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text= &fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer&text=123&fontSize=60" />
