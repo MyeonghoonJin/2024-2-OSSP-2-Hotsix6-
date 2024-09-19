@@ -59,7 +59,7 @@
   <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <h3>DB</h3>
-  
+  <img src="https://img.shields.io/badge/Mysql-#4982A6?style=for-the-badge&logo=Mysql&logoColor=white"/>
   <h3>AI?</h3>
   
   <h3>ETC</h3>
@@ -70,4 +70,4 @@
 
 <h2>Reference</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=123&fontSize=60" />
+
