@@ -1,5 +1,5 @@
 ## 공개 SW 2024-2 핫식스 조 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Project%20Name&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Project%20Name&fontSize=60" />
 
 <h2>Project introducing (or Project preview)</h2>
 
