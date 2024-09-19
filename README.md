@@ -54,8 +54,11 @@
 <a href="google.com">Website 주소</a>
 
 <h2>🛠️Tech</h2>
-
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
-
+  <h3>Front-end</h3>
+  <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
+  <h3>Back-end</h3>
+  <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<h2>Open Source</h2>
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
 
