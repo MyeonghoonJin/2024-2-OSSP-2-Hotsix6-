@@ -44,11 +44,11 @@
   </tr>
 </table>
 
-<h2>Project introducing (or Project preview)</h2>
+<h2>Project Introducing (or Project preview)</h2>
   
 <h2>Architecture</h2>
 
-<h2></h2>
+<h2>Project Example</h2>
 
 <h2>🛠️Tech</h2>
 
