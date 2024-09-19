@@ -51,7 +51,7 @@
 <h2>Project Example</h2>
 
 <h2>Link</h2>
-<a href="google.com">Website 주소</a>
+<a href="google.com">완성된 Website 주소</a>
 
 <h2>🛠️Tech</h2>
   <h3>Front-end</h3>
