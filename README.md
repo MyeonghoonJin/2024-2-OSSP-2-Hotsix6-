@@ -1,52 +1,56 @@
 ## 공개 SW 2024-2 핫식스 조 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Project%20Name&fontSize=60" />
 
-<h2>Project introducing (or Project preview)</h2>
+
 
 
 <h2><i class="fa-solid fa-person"></i>Team Member</h2>
-  <table>
-    <tr>
-      <th scope=col>Name</th>
-      <th scope=col>Major</th>
-      <th scope=col>E-mail</th>
-      <th scope=col>Role</th>
-    </tr>
-    <tr>
-      <td>진명훈</td>
-      <td>컴퓨터공학과</td>
-      <td>audgns1947@dgu.ac.kr</td>
-      <td>팀장(Backend)</td>
-    </tr>
-    <tr>
-      <td>손한솔</td>
-      <td>0000</td>
-      <td>0000</td>
-      <td>0000</td>
-    </tr>
-    <tr>
-      <td>손동진</td>
-      <td>0000</td>
-      <td>0000</td>
-      <td>0000</td>
-    </tr>
-    <tr>
-      <td>최윤열</td>
-      <td>0000</td>
-      <td>0000</td>
-      <td>0000</td>
-    </tr>
-    <tr>
-      <td>황가원</td>
-      <td>0000</td>
-      <td>0000</td>
-      <td>0000</td>
-    </tr>
-  </table>
-  
-## Architecture
+<table>
+  <tr>
+    <th scope=col>Name</th>
+    <th scope=col>Major</th>
+    <th scope=col>E-mail</th>
+    <th scope=col>Role</th>
+  </tr>
+  <tr>
+    <td>진명훈</td>
+    <td>컴퓨터공학과</td>
+    <td>audgns1947@dgu.ac.kr</td>
+    <td>팀장(Backend)</td>
+  </tr>
+  <tr>
+    <td>손한솔</td>
+    <td>0000</td>
+    <td>0000</td>
+    <td>0000</td>
+  </tr>
+  <tr>
+    <td>손동진</td>
+    <td>0000</td>
+    <td>0000</td>
+    <td>0000</td>
+  </tr>
+  <tr>
+    <td>최윤열</td>
+    <td>0000</td>
+    <td>0000</td>
+    <td>0000</td>
+  </tr>
+  <tr>
+    <td>황가원</td>
+    <td>0000</td>
+    <td>0000</td>
+    <td>0000</td>
+  </tr>
+</table>
 
-## 🛠️Tech
+<h2>Project introducing (or Project preview)</h2>
+  
+<h2>Architecture</h2>
+
+<h2></h2>
+
+<h2>🛠️Tech</h2>
 
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
 
