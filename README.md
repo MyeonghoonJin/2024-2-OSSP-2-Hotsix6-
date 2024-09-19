@@ -44,7 +44,7 @@
 
 ## 🛠️Tech
 
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
 
 
 
