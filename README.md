@@ -63,7 +63,7 @@
   <h3>AI?</h3>
   
   <h3>ETC</h3>
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-8268d1?style=for-the-badge&logo=Discord&logoColor=white"/>
 <h2>Open Source</h2>
 
 
