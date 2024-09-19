@@ -51,7 +51,7 @@
 <h2>Project Example</h2>
 
 <h2>Link</h2>
-<href a="google.com">Website 주소</href>
+<a href="google.com">Website 주소</a>
 
 <h2>🛠️Tech</h2>
 
