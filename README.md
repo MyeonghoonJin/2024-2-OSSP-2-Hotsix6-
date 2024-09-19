@@ -43,6 +43,7 @@
       <td>0000</td>
     </tr>
   </table>
+  
 ## Architecture
 
 ## 🛠️Tech
