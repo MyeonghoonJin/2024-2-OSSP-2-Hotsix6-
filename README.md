@@ -16,7 +16,7 @@
     <td>진명훈</td>
     <td>컴퓨터공학과</td>
     <td>audgns1947@dgu.ac.kr</td>
-    <td>팀장(Backend)</td>
+    <td>Backend(팀장)</td>
   </tr>
   <tr>
     <td>손한솔</td>
