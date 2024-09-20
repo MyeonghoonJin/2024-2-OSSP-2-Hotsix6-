@@ -56,13 +56,13 @@
 <h2>🛠️Tech</h2>
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
-  <h3>Back-end</h3>
+  <h4>Back-end</h4>
   <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <h3>DB</h3>
+  <h4>DB</h4>
   <img src="https://img.shields.io/badge/Mysql-4982A6?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <h3>AI?</h3>
+  <h4>AI?</h4>
   
-  <h3>ETC</h3>
+  <h4>ETC</h4>
   
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-8268d1?style=for-the-badge&logo=Discord&logoColor=white"/>
 <h2>Open Source</h2>
