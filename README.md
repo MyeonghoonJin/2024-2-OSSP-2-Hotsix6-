@@ -63,7 +63,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <h4>DB</h4>
   <img src="https://img.shields.io/badge/Mysql-4982A6?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <h4>AI?</h4>
   
   <h4>ETC</h4>
   
