@@ -54,6 +54,8 @@
 <a href="google.com">완성된 Website 주소</a>
 
 <h2>🛠️Tech</h2>
+  <h4>Language</h4>
+  <img src="https://img.shields.io/badge/Java-ff0101?style=for-the-badge&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Css-ff0101?style=for-the-badge&logo=Css&logoColor=white"/><img src="https://img.shields.io/badge/Js-ff0101?style=for-the-badge&logo=Js&logoColor=white"/>
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
   <h4>Back-end</h4>
