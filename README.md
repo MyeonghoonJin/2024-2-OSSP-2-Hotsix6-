@@ -56,7 +56,7 @@
 <h2>🛠️Tech</h2>
   <h4>Language</h4>
   
-  <img src="https://img.shields.io/badge/Java-F2AA6B?style=for-the-badge&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
   <h4>Back-end</h4>
