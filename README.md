@@ -60,7 +60,7 @@
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/React-ff0101?style=for-the-badge&logo=React&logoColor=white"/>
   <h4>Back-end</h4>
-  <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <h4>DB</h4>
   <img src="https://img.shields.io/badge/Mysql-4982A6?style=for-the-badge&logo=MySQL&logoColor=white"/>
   
