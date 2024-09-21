@@ -1,4 +1,4 @@
-## 공개 SW 2024-2 핫식스 조 
+## 2024-2-OSSP-2-Hotsix-6
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Project%20Name&fontSize=60" />
 
 
