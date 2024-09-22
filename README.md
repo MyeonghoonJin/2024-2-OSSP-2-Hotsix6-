@@ -69,7 +69,8 @@
   
   <h4>ETC</h4>
   
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-8268d1?style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge"><img src="https://img.shields.io/badge/Claude-AI-blue?style=flat-square&logo=ai" alt="Claude AI">
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-8268d1?style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge"><img src="https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge&logo=ai" alt="Claude AI">
+
 <h2>Open Source</h2>
 
 
