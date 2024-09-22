@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-98dd6d?style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <h4>API</h4>
 
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger" alt="Swagger">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
   
   <h4>DB</h4>
